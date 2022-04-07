@@ -20,7 +20,7 @@ public class Base {
 	String path=System.getProperty("user.dir")+"\\src\\test\\resources\\config.properties";
 	Properties prp;
 	FileInputStream fis;
-	
+	//maven comment
 	@BeforeSuite
 	public void login() throws IOException {
 		
