@@ -21,6 +21,7 @@ public class Base {
 	Properties prp;
 	FileInputStream fis;
 	//maven comment
+	//eclips comment
 	@BeforeSuite
 	public void login() throws IOException {
 		
