@@ -14,7 +14,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+//gift from git
 public class Base {
 	public static WebDriver driver;
 	String path=System.getProperty("user.dir")+"\\src\\test\\resources\\config.properties";
